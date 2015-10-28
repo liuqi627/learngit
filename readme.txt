@@ -13,3 +13,4 @@ edit in issue-101
 to see stash
 Ok, everybody works on dev plz
 gittest1 edited the file
+gittest2 edited this file
