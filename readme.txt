@@ -5,3 +5,4 @@ Git tracks changes.
 Boss stupid.
 creating a new branch is quick.
 added in origin
+added in remote1
