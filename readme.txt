@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Boss stupid.
 creating a new branch is quick.
+feature1 added.
