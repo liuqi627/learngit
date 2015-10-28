@@ -12,3 +12,4 @@ edited again in feature1
 edit in issue-101
 to see stash
 Ok, everybody works on dev plz
+gittest2 edited
